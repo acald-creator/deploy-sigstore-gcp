@@ -1,0 +1,3 @@
+name: sigstore-in-the-cloud
+runtime: go
+description: A minimal Google Cloud Go Pulumi program
