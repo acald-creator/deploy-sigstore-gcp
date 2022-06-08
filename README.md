@@ -1,0 +1,1 @@
+### Deploy Sigstore services in Google Cloud Platform
